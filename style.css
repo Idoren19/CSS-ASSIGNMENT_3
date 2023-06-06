@@ -1,7 +1,7 @@
 body {
     background-image: url("./Image/blueble.jpg");
     background-repeat: no-repeat;
-    background-size: 1500px;
+    background-size: 1250px;
 }
 
 .container {
@@ -10,7 +10,7 @@ body {
     width: 300px;
     position: relative;
     top: 100px;
-    left: 450px;
+    left: 470px;
     border-radius: 10px;
 }
 
